@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<head>
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<title>AR Fun</title>
+
+	<!-- include A-Frame -->
+	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<!-- include ar.js for A-Frame -->
+	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
+
+	<!-- play and pause video -->
+	<script src="./js/video-handler.js"></script>
+	<!-- Toggle audio -->
+	<script src="./js/toggle-audio.js"></script>
+	<!-- include aframe-chromakey-material.min.js for colour keying -->
+	<script src="./js/aframe-chromakey-material-mod.min.js"></script>
+	<!-- include alphatest.js for opacity -->
+	<script src="./js/alpha-test.js"></script>
+
+
+</head>
+	<body style='margin : 0px; overflow: hidden;'>
+
+	 <a-scene vr-mode-ui="enabled: false" embedded arjs="debugUIEnabled: false;">
+
+			<a-assets>
+
+				<video
+					crossorigin="anonymous"
+					preload="auto"
+					autoplay="true"
+					muted="true"
+					loop="true"
+					webkit-playsinline
+					playsinline
+					id="video01"
+					src="./video/fran.mp4"/>
+				</video>
+
+				<video
+					crossorigin="anonymous"
+					preload="auto"
+					autoplay="true"
+					muted="true"
+					loop="true"
+					webkit-playsinline
+					playsinline
+					id="video02"
+					src="./video/hologram_rings.mp4"/>
+				</video>
+
+				<img id="audioBtn" src="./img/audioBtn.png">
+
+			</a-assets>
+
+			<a-marker preset='hiro'>
+
+		<a-image id="button" src="#audioBtn" width=".15" height=".15" position="0.5 0 0.5" opacity="0.5" rotation="90 0 0" event-set__click;></a-image>
+
+		<a-entity geometry="primitive: cylinder; radius: 0.5; height: 0.05;" material="color: #101429; opacity: 0.7; transparent: false;" shadow="receive: true" alphaTest = 0.5 position="0 0 0" rotation="0 0 0"></a-entity>
+		<a-entity videohandler material="shader: chromakey; src: #video02; color: 0.1 0.9 0.2; side: double;" shadow="cast: true" geometry="primitive: plane" position="0 0.2 0" rotation="-90 0 0"></a-entity>
+		<a-entity videohandler material="shader: chromakey; src: #video01; color: 0.1 0.9 0.2; alphaTest: true; transparent: false; opacity: 0.1; side: double; metalness: 10;" shadow="cast: true" alphaTest = 0.5 geometry="primitive: plane"  scale="1.5 1.5 1.5" position="0 1.1 0" rotation="0 0 0"></a-entity>
+
+	</a-marker>
+
+	<a-entity camera></a-entity>
+
+ </a-scene>
+
+
+</body>
+
+</html>
