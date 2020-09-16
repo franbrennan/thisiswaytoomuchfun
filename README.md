@@ -8,9 +8,8 @@ This is something I created (on the shoulders of giants) a wee while back and ha
 Twitter: <a href="https://twitter.com/FrannieBrennan" target="">**@FrannieBrennan**</a><br>
 LinkedIn: <a href="https://www.linkedin.com/in/franniebrennan" target="">**FrannieBrennan**</a>  
 
-<a href="https://github.com/AR-js-org/studio" target="">**AR.js Studio**</a>.
 <br><br>
-- <a href="https://franbrennan.github.io/dinotakesatrip" target="">**Live Demo 🦖✈️**</a>
+- <a href="https://franbrennan.github.io/thisiswaytoomuchfun/" target="">**Live Demo**</a>
 
 - Marker image for demo (print out and point your device camera at the marker image) 
 
@@ -20,9 +19,9 @@ LinkedIn: <a href="https://www.linkedin.com/in/franniebrennan" target="">**Frann
 
 ---
 ## Handy Links
-- <a href="https://github.com/AR-js-org/studio" target="">**AR.js Studio**</a>
 - <a href="https://github.com/AR-js-org" target="">**AR.js**</a>
 - <a href="https://github.com/aframevr/aframe" target="">**A-Frame**</a>
+- <a href="https://github.com/nikolaiwarner/aframe-chromakey-material" target="">**A-Frame Chromakey Material**</a>
 <br><br>
 
 ---
