@@ -1,7 +1,7 @@
 # This AR Lark Is Way Too Much Fun
 ---
 
-![cover](https://github.com/franbrennan/thisiswaytoomuchfun/blob/master/cover.png)
+![cover](https://user-images.githubusercontent.com/3405072/93437234-a80da880-f8c3-11ea-97e2-98a1d1e382da.png)
 
 <br>
 
