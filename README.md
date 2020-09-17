@@ -9,7 +9,7 @@ This is something I created (on the shoulders of giants) a wee while back and ha
 
 
 Twitter: <a href="https://twitter.com/FrannieBrennan" target="">**@FrannieBrennan**</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/franniebrennan" target="">**FrannieBrennan**</a>
+LinkedIn: <a href="https://www.linkedin.com/in/franniebrennan" target="">**FrannieBrennan**</a><br>
 
 
 - <a href="https://franbrennan.github.io/thisiswaytoomuchfun/" target="">**Live Demo**</a>
