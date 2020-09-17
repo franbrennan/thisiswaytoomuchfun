@@ -32,8 +32,8 @@ I created the character and video animation using <a href="https://www.adobe.com
 <br><br>
 
 If you were interested in seeing **This Is Way Too Much Fun** you may also like to check out<br><br>
-<a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a><br> 
-<a href="https://github.com/franbrennan/coffeetime" target="">**Coffee Time**</a>
+- <a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a><br> 
+- <a href="https://github.com/franbrennan/coffeetime" target="">**Coffee Time**</a>
 
 
 
