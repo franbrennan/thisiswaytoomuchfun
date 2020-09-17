@@ -35,8 +35,6 @@ I created the character and video animation using <a href="https://www.adobe.com
 
 
 
----
-
 
 
 
