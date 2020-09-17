@@ -31,7 +31,9 @@ I created the character and video animation using <a href="https://www.adobe.com
 - <a href="https://github.com/nikolaiwarner/aframe-chromakey-material" target="">**A-Frame Chromakey Material**</a>
 <br><br>
 
-- Also check out <a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a>
+If you were interested in seeing **This Is Way Too Much Fun** you may also like to check out<br><br>
+<a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a><br> 
+<a href="https://github.com/franbrennan/coffeetime" target="">**Coffee Time**</a>
 
 
 
