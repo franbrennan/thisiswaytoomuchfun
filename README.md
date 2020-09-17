@@ -18,9 +18,11 @@ LinkedIn: <a href="https://www.linkedin.com/in/franniebrennan" target="">**Frann
 
 ![marker](https://github.com/franbrennan/thisiswaytoomuchfun/blob/master/hiro.png)
 
-- Also check out <a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a>
+---
 
-<br>
+## The AR content
+I created the character and video animation using <a href="https://www.adobe.com/uk/products/character-animator.html?promoid=4SC9977P&mv=other" target="">**Adobe Character Animator**</a>.
+<br><br>
 
 ---
 ## Handy Links
@@ -28,6 +30,10 @@ LinkedIn: <a href="https://www.linkedin.com/in/franniebrennan" target="">**Frann
 - <a href="https://github.com/aframevr/aframe" target="">**A-Frame**</a>
 - <a href="https://github.com/nikolaiwarner/aframe-chromakey-material" target="">**A-Frame Chromakey Material**</a>
 <br><br>
+
+- Also check out <a href="https://github.com/franbrennan/dinotakesatrip" target="">**Dino Takes A Trip**</a>
+
+
 
 ---
 
